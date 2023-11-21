@@ -1,1 +1,2 @@
 # sql-challenge
+For this challenge, we were provided with 6 CSV files, containing data from employees who worked at Pewlett Hackard, a fictional company, between the 1980s and 1990s. Our task was to analyze the data and answer some questions about employees who worked there during that time period. First, we created an Entity Relationship Diagram of the tables. Then, we created the tables and imported the CSV files into their corresponding table. After that, we queried the data to answer the required questions about employees.
